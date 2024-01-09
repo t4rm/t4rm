@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm **Tarek**, a Computer-Science student leaded by a strong passion for AI. I love design and de facto bringing to life designs. 
+I'm **Tarek**, a Computer-Science student leaded by a strong passion for AI. I love design and de facto bringing designs to life. 
 
 [![views](https://komarev.com/ghpvc/?username=t4rm&style=for-the-badge&color=A6B3AB&label=VIEWS&abbreviated=true)](https://github.com/t4rm)
 
